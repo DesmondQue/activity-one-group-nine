@@ -1,1 +1,1 @@
-# activitiy-one-group-nine
+# activity-one-group-nine
