@@ -1,0 +1,25 @@
+request added for floor: 5
+request added for floor: 4
+request added for floor: 3
+request added for floor: 2
+request ignored: elevator already on floor 1
+request added for floor: 4
+request added for floor: 4
+request added for floor: 3
+request added for floor: 2
+request added for floor: 5
+request added for floor: 4
+request added for floor: 3
+request added for floor: 2
+state - floor: 2, direction: up
+elevator stopped at floor: 2
+state - floor: 3, direction: up
+elevator stopped at floor: 3
+state - floor: 4, direction: up
+elevator stopped at floor: 4
+state - floor: 5, direction: up
+elevator stopped at floor: 5
+request ignored: elevator already on floor 5
+request ignored: elevator already on floor 5
+request added for floor: 4
+duplicate floor request: 4

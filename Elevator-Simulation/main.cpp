@@ -29,7 +29,7 @@ private:
     bool isProcessing; // flag for processing state
 
 public:
-    Elevator() : currentFloor(1), direction("neutral"), upRequests(NULL), downRequests(NULL), recentlyVisited(NULL), floorRequestsFront(NULL), floorRequestsRear(NULL), isProcessing(false) {
+    Elevator() : currentFloor(1), direction("up"), upRequests(NULL), downRequests(NULL), recentlyVisited(NULL), floorRequestsFront(NULL), floorRequestsRear(NULL), isProcessing(false) {
         logFile.open("elevator_log.txt", ios::app);
         if (!logFile.is_open()) {
             cerr << "error opening log file!\n";
@@ -65,6 +65,10 @@ public:
             return;
         }
 
+        if (isEmpty(floorRequestsFront) && isEmpty(&upRequests) && isEmpty(&downRequests)) {
+            direction = (floor > currentFloor) ? "up" : "down";
+        }
+
         enqueue(floorRequestsFront, floorRequestsRear, floor);
         log("request added for floor: " + to_string(floor));
     }
@@ -72,7 +76,7 @@ public:
     void processRequests() {
         isProcessing = true;
         while (!isEmpty(floorRequestsFront) || !isEmpty(&upRequests) || !isEmpty(&downRequests)) {
-            // process requests from the queue
+
             while (!isEmpty(floorRequestsFront)) {
                 int nextFloor = dequeue(floorRequestsFront, floorRequestsRear);
                 if (nextFloor > currentFloor) {
@@ -82,20 +86,16 @@ public:
                 }
             }
 
-            // process requests based on direction
             if (direction == "up" && !isEmpty(&upRequests)) {
                 processUpRequests();
             } else if (direction == "down" && !isEmpty(&downRequests)) {
                 processDownRequests();
             }
 
-            // change direction if needed
             if (direction == "up" && isEmpty(&upRequests) && !isEmpty(&downRequests)) {
                 direction = "down";
             } else if (direction == "down" && isEmpty(&downRequests) && !isEmpty(&upRequests)) {
                 direction = "up";
-            } else if (isEmpty(&upRequests) && isEmpty(&downRequests)) {
-                direction = "neutral";
             }
         }
         isProcessing = false;
@@ -167,7 +167,6 @@ int main() {
     int floor;
 
     while (true) {
-        CLS();
         elevatorHeader();
         elevatorPrompt();
         cin >> input;
