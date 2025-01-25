@@ -1,0 +1,540 @@
+Request added for floor: 4
+Request added for floor: 5
+Request added for floor: 3
+State - Floor: 2, Direction: up
+State - Floor: 3, Direction: up
+State - Floor: 4, Direction: up
+Elevator arrived at floor: 4
+State - Floor: 5, Direction: up
+Elevator arrived at floor: 5
+State - Floor: 4, Direction: down
+State - Floor: 3, Direction: down
+Elevator arrived at floor: 3
+Request added for floor: 4
+Request added for floor: 5
+Request added for floor: 3
+State - Floor: 2, Direction: up
+State - Floor: 3, Direction: up
+State - Floor: 4, Direction: up
+Elevator arrived at floor: 4
+State - Floor: 5, Direction: up
+Elevator arrived at floor: 5
+State - Floor: 4, Direction: down
+State - Floor: 3, Direction: down
+Elevator arrived at floor: 3
+Request added for floor: 3
+Request added for floor: 5
+Request added for floor: 4
+State - Floor: 2, Direction: up
+State - Floor: 3, Direction: up
+Elevator arrived at floor: 3
+State - Floor: 4, Direction: up
+State - Floor: 5, Direction: up
+Elevator arrived at floor: 5
+State - Floor: 4, Direction: down
+Elevator arrived at floor: 4
+Request added for floor: 3
+Request added for floor: 5
+Request added for floor: 4
+State - Floor: 2, Direction: up
+State - Floor: 3, Direction: up
+Elevator stopped at floor: 3
+State - Floor: 4, Direction: up
+Elevator stopped at floor: 4
+State - Floor: 5, Direction: up
+Elevator stopped at floor: 5
+Request added for floor: 1
+Request added for floor: 9
+Request added for floor: 3
+State - Floor: 6, Direction: up
+State - Floor: 7, Direction: up
+State - Floor: 8, Direction: up
+State - Floor: 9, Direction: up
+Elevator stopped at floor: 9
+State - Floor: 8, Direction: down
+State - Floor: 7, Direction: down
+State - Floor: 6, Direction: down
+State - Floor: 5, Direction: down
+State - Floor: 4, Direction: down
+State - Floor: 3, Direction: down
+Elevator stopped at floor: 3
+State - Floor: 2, Direction: down
+State - Floor: 1, Direction: down
+Elevator stopped at floor: 1
+Request added for floor: 3
+Request added for floor: 5
+Request added for floor: 4
+State - Floor: 2, Direction: up
+State - Floor: 3, Direction: up
+Elevator stopped at floor: 3
+State - Floor: 4, Direction: up
+Elevator stopped at floor: 4
+State - Floor: 5, Direction: up
+Elevator stopped at floor: 5
+Request added for floor: 3
+Request added for floor: 9
+Request added for floor: 1
+State - Floor: 6, Direction: up
+State - Floor: 7, Direction: up
+State - Floor: 8, Direction: up
+State - Floor: 9, Direction: up
+Elevator stopped at floor: 9
+State - Floor: 8, Direction: down
+State - Floor: 7, Direction: down
+State - Floor: 6, Direction: down
+State - Floor: 5, Direction: down
+State - Floor: 4, Direction: down
+State - Floor: 3, Direction: down
+Elevator stopped at floor: 3
+State - Floor: 2, Direction: down
+State - Floor: 1, Direction: down
+Elevator stopped at floor: 1
+Request added for floor: 5
+Request added for floor: 9
+Request added for floor: 2
+State - Floor: 2, Direction: up
+Elevator stopped at floor: 2
+State - Floor: 3, Direction: up
+State - Floor: 4, Direction: up
+State - Floor: 5, Direction: up
+Elevator stopped at floor: 5
+State - Floor: 6, Direction: up
+State - Floor: 7, Direction: up
+State - Floor: 8, Direction: up
+State - Floor: 9, Direction: up
+Elevator stopped at floor: 9
+Request added for floor: 1
+Request added for floor: 8
+Request added for floor: 6
+State - Floor: 8, Direction: down
+Elevator stopped at floor: 8
+State - Floor: 7, Direction: down
+State - Floor: 6, Direction: down
+Elevator stopped at floor: 6
+State - Floor: 5, Direction: down
+State - Floor: 4, Direction: down
+State - Floor: 3, Direction: down
+State - Floor: 2, Direction: down
+State - Floor: 1, Direction: down
+Elevator stopped at floor: 1
+Request ignored: Elevator already on floor 1
+Request added for floor: 2
+State - Floor: 2, Direction: up
+Elevator stopped at floor: 2
+Request ignored: Elevator already on floor 1
+Request added for floor: 2
+Request added for floor: 4
+Request added for floor: 3
+Request added for floor: 5
+Request added for floor: 6
+State - Floor: 2, Direction: up
+Elevator stopped at floor: 2
+State - Floor: 3, Direction: up
+Elevator stopped at floor: 3
+State - Floor: 4, Direction: up
+Elevator stopped at floor: 4
+State - Floor: 5, Direction: up
+Elevator stopped at floor: 5
+State - Floor: 6, Direction: up
+Elevator stopped at floor: 6
+Request added for floor: 9
+Request added for floor: 1
+State - Floor: 7, Direction: up
+State - Floor: 8, Direction: up
+State - Floor: 9, Direction: up
+Elevator stopped at floor: 9
+State - Floor: 8, Direction: down
+State - Floor: 7, Direction: down
+State - Floor: 6, Direction: down
+State - Floor: 5, Direction: down
+State - Floor: 4, Direction: down
+State - Floor: 3, Direction: down
+State - Floor: 2, Direction: down
+State - Floor: 1, Direction: down
+Elevator stopped at floor: 1
+Request ignored: Elevator already on floor 1
+Request added for floor: 2
+Request added for floor: 3
+Request added for floor: 5
+Request added for floor: 4
+State - Floor: 2, Direction: up
+Elevator stopped at floor: 2
+State - Floor: 3, Direction: up
+Elevator stopped at floor: 3
+State - Floor: 4, Direction: up
+Elevator stopped at floor: 4
+State - Floor: 5, Direction: up
+Elevator stopped at floor: 5
+Request added for floor: 6
+State - Floor: 6, Direction: up
+Elevator stopped at floor: 6
+Request added for floor: 7
+Request added for floor: 8
+Request added for floor: 9
+State - Floor: 7, Direction: up
+Elevator stopped at floor: 7
+State - Floor: 8, Direction: up
+Elevator stopped at floor: 8
+State - Floor: 9, Direction: up
+Elevator stopped at floor: 9
+Request ignored: Elevator already on floor 1
+Request ignored: Elevator already on floor 1
+Request ignored: Elevator already on floor 1
+Request ignored: Elevator already on floor 1
+Request ignored: Elevator already on floor 1
+Request ignored: Elevator already on floor 1
+Request ignored: Elevator already on floor 1
+Request added for floor: 3
+Request added for floor: 5
+Request added for floor: 4
+State - Floor: 2, Direction: up
+State - Floor: 3, Direction: up
+Elevator stopped at floor: 3
+State - Floor: 4, Direction: up
+Elevator stopped at floor: 4
+State - Floor: 5, Direction: up
+Elevator stopped at floor: 5
+Request added for floor: 4
+Request added for floor: 5
+Request ignored: Elevator already on floor 1
+State - Floor: 2, Direction: up
+State - Floor: 3, Direction: up
+State - Floor: 4, Direction: up
+Elevator stopped at floor: 4
+State - Floor: 5, Direction: up
+Elevator stopped at floor: 5
+Request added for floor: 9
+Request added for floor: 8
+Request added for floor: 7
+Request added for floor: 1
+State - Floor: 6, Direction: up
+State - Floor: 7, Direction: up
+Elevator stopped at floor: 7
+State - Floor: 8, Direction: up
+Elevator stopped at floor: 8
+State - Floor: 9, Direction: up
+Elevator stopped at floor: 9
+State - Floor: 8, Direction: down
+State - Floor: 7, Direction: down
+State - Floor: 6, Direction: down
+State - Floor: 5, Direction: down
+State - Floor: 4, Direction: down
+State - Floor: 3, Direction: down
+State - Floor: 2, Direction: down
+State - Floor: 1, Direction: down
+Elevator stopped at floor: 1
+Request ignored: Elevator already on floor 1
+Request added for floor: 2
+Request added for floor: 4
+Request added for floor: 3
+State - Floor: 2, Direction: up
+Elevator stopped at floor: 2
+State - Floor: 3, Direction: up
+Elevator stopped at floor: 3
+State - Floor: 4, Direction: up
+Elevator stopped at floor: 4
+Request added for floor: 9
+Request added for floor: 5
+Request added for floor: 6
+Request ignored: Elevator already on floor 4
+Request added for floor: 5
+Request added for floor: 3
+Request added for floor: 6
+Request added for floor: 7
+Request added for floor: 8
+Request added for floor: 1
+State - Floor: 5, Direction: up
+Elevator stopped at floor: 5
+Elevator stopped at floor: 5
+State - Floor: 6, Direction: up
+Elevator stopped at floor: 6
+Elevator stopped at floor: 6
+State - Floor: 7, Direction: up
+Elevator stopped at floor: 7
+State - Floor: 8, Direction: up
+Elevator stopped at floor: 8
+State - Floor: 9, Direction: up
+Elevator stopped at floor: 9
+State - Floor: 8, Direction: down
+State - Floor: 7, Direction: down
+State - Floor: 6, Direction: down
+State - Floor: 5, Direction: down
+State - Floor: 4, Direction: down
+State - Floor: 3, Direction: down
+Elevator stopped at floor: 3
+State - Floor: 2, Direction: down
+State - Floor: 1, Direction: down
+Elevator stopped at floor: 1
+Request ignored: Elevator already on floor 1
+Request ignored: Elevator already on floor 1
+Request added for floor: 2
+Request added for floor: 2
+Request added for floor: 2
+Request added for floor: 2
+State - Floor: 2, Direction: up
+Elevator stopped at floor: 2
+Elevator stopped at floor: 2
+Elevator stopped at floor: 2
+Elevator stopped at floor: 2
+Request added for floor: 3
+State - Floor: 2, Direction: up
+State - Floor: 3, Direction: up
+Elevator stopped at floor: 3
+Invalid floor request: 14123
+Request added for floor: 3
+Request added for floor: 5
+Request ignored: Elevator already on floor 1
+Request added for floor: 3
+State - Floor: 2, Direction: up
+State - Floor: 3, Direction: up
+Elevator stopped at floor: 3
+Elevator stopped at floor: 3
+State - Floor: 4, Direction: up
+State - Floor: 5, Direction: up
+Elevator stopped at floor: 5
+Request added for floor: 3
+State - Floor: 2, Direction: up
+State - Floor: 3, Direction: up
+Elevator stopped at floor: 3
+Request added for floor: 5
+Request added for floor: 1
+Request added for floor: 9
+State - Floor: 4, Direction: up
+State - Floor: 5, Direction: up
+Elevator stopped at floor: 5
+State - Floor: 6, Direction: up
+State - Floor: 7, Direction: up
+State - Floor: 8, Direction: up
+State - Floor: 9, Direction: up
+Elevator stopped at floor: 9
+State - Floor: 8, Direction: down
+State - Floor: 7, Direction: down
+State - Floor: 6, Direction: down
+State - Floor: 5, Direction: down
+State - Floor: 4, Direction: down
+State - Floor: 3, Direction: down
+State - Floor: 2, Direction: down
+State - Floor: 1, Direction: down
+Elevator stopped at floor: 1
+Request ignored: Elevator already on floor 1
+Request added for floor: 2
+Request added for floor: 3
+Request added for floor: 4
+State - Floor: 2, Direction: up
+Elevator stopped at floor: 2
+State - Floor: 3, Direction: up
+Elevator stopped at floor: 3
+State - Floor: 4, Direction: up
+Elevator stopped at floor: 4
+Request added for floor: 8
+Request added for floor: 6
+Request added for floor: 3
+Request added for floor: 9
+State - Floor: 5, Direction: up
+State - Floor: 6, Direction: up
+Elevator stopped at floor: 6
+State - Floor: 7, Direction: up
+State - Floor: 8, Direction: up
+Elevator stopped at floor: 8
+State - Floor: 9, Direction: up
+Elevator stopped at floor: 9
+State - Floor: 8, Direction: down
+State - Floor: 7, Direction: down
+State - Floor: 6, Direction: down
+State - Floor: 5, Direction: down
+State - Floor: 4, Direction: down
+State - Floor: 3, Direction: down
+Elevator stopped at floor: 3
+Request added for floor: 5
+Request added for floor: 5
+Request added for floor: 5
+State - Floor: 4, Direction: up
+State - Floor: 5, Direction: up
+Elevator stopped at floor: 5
+Elevator stopped at floor: 5
+Elevator stopped at floor: 5
+Request added for floor: 4
+Request added for floor: 8
+Request added for floor: 5
+Request added for floor: 6
+State - Floor: 2, Direction: up
+State - Floor: 3, Direction: up
+State - Floor: 4, Direction: up
+Elevator stopped at floor: 4
+State - Floor: 5, Direction: up
+State - Floor: 6, Direction: up
+State - Floor: 7, Direction: up
+State - Floor: 8, Direction: up
+Elevator stopped at floor: 8
+State - Floor: 7, Direction: down
+State - Floor: 6, Direction: down
+Elevator stopped at floor: 6
+State - Floor: 5, Direction: down
+Elevator stopped at floor: 5
+Request added for floor: 5
+Request added for floor: 5
+Request added for floor: 3
+Request ignored: Elevator already on floor 1
+Request added for floor: 2
+State - Floor: 2, Direction: up
+Elevator stopped at floor: 2
+State - Floor: 3, Direction: up
+Elevator stopped at floor: 3
+State - Floor: 4, Direction: up
+State - Floor: 5, Direction: up
+Elevator stopped at floor: 5
+Elevator stopped at floor: 5
+Request added for floor: 5
+Request added for floor: 4
+Request added for floor: 3
+Request added for floor: 2
+State - Floor: 2, Direction: up
+Elevator stopped at floor: 2
+State - Floor: 3, Direction: up
+Elevator stopped at floor: 3
+State - Floor: 4, Direction: up
+Elevator stopped at floor: 4
+State - Floor: 5, Direction: up
+Elevator stopped at floor: 5
+Request added for floor: 8
+Request added for floor: 9
+Request added for floor: 1
+Request added for floor: 4
+State - Floor: 6, Direction: up
+State - Floor: 7, Direction: up
+State - Floor: 8, Direction: up
+Elevator stopped at floor: 8
+State - Floor: 9, Direction: up
+Elevator stopped at floor: 9
+State - Floor: 8, Direction: down
+State - Floor: 7, Direction: down
+State - Floor: 6, Direction: down
+State - Floor: 5, Direction: down
+State - Floor: 4, Direction: down
+Elevator stopped at floor: 4
+State - Floor: 3, Direction: down
+State - Floor: 2, Direction: down
+State - Floor: 1, Direction: down
+Elevator stopped at floor: 1
+Request added for floor: 5
+Request added for floor: 5
+Request added for floor: 5
+State - Floor: 2, Direction: up
+State - Floor: 3, Direction: up
+State - Floor: 4, Direction: up
+State - Floor: 5, Direction: up
+Elevator stopped at floor: 5
+Elevator stopped at floor: 5
+Elevator stopped at floor: 5
+Invalid floor request: 5
+Invalid floor request: 5
+Request added for floor: 5
+Request added for floor: 5
+Request added for floor: 5
+Request added for floor: 5
+State - Floor: 2, Direction: up
+State - Floor: 3, Direction: up
+State - Floor: 4, Direction: up
+State - Floor: 5, Direction: up
+Elevator stopped at floor: 5
+Elevator stopped at floor: 5
+Elevator stopped at floor: 5
+Elevator stopped at floor: 5
+Request added for floor: 5
+State - Floor: 2, Direction: up
+State - Floor: 3, Direction: up
+State - Floor: 4, Direction: up
+State - Floor: 5, Direction: up
+Elevator stopped at floor: 5
+Request added for floor: 5
+Invalid floor request: 5
+State - Floor: 2, Direction: up
+State - Floor: 3, Direction: up
+State - Floor: 4, Direction: up
+State - Floor: 5, Direction: up
+Elevator stopped at floor: 5
+Request added for floor: 5
+State - Floor: 2, Direction: up
+State - Floor: 3, Direction: up
+State - Floor: 4, Direction: up
+State - Floor: 5, Direction: up
+Elevator stopped at floor: 5
+Duplicate floor request: 5
+Request added for floor: 5
+Request added for floor: 5
+Request added for floor: 4
+Request added for floor: 3
+Request added for floor: 2
+State - Floor: 2, Direction: up
+Elevator stopped at floor: 2
+State - Floor: 3, Direction: up
+Elevator stopped at floor: 3
+State - Floor: 4, Direction: up
+Elevator stopped at floor: 4
+State - Floor: 5, Direction: up
+Elevator stopped at floor: 5
+Duplicate floor request: 5
+Request added for floor: 5
+Duplicate floor request: 5
+Duplicate floor request: 5
+Duplicate floor request: 5
+Duplicate floor request: 5
+Request added for floor: 6
+Request added for floor: 7
+Request added for floor: 4
+State - Floor: 2, Direction: up
+State - Floor: 3, Direction: up
+State - Floor: 4, Direction: up
+Elevator stopped at floor: 4
+State - Floor: 5, Direction: up
+Elevator stopped at floor: 5
+State - Floor: 6, Direction: up
+Elevator stopped at floor: 6
+State - Floor: 7, Direction: up
+Elevator stopped at floor: 7
+Request added for floor: 5
+Request added for floor: 4
+Request added for floor: 3
+Request added for floor: 2
+Request ignored: Elevator already on floor 1
+Request added for floor: 5
+Request added for floor: 4
+Request added for floor: 3
+Request added for floor: 2
+Request ignored: Elevator already on floor 1
+Request added for floor: 5
+Request added for floor: 4
+Request added for floor: 3
+Request added for floor: 2
+Request ignored: Elevator already on floor 1
+Request added for floor: 5
+Request added for floor: 4
+Request added for floor: 3
+Request added for floor: 2
+Request ignored: Elevator already on floor 1
+Request added for floor: 5
+Request added for floor: 4
+Request added for floor: 3
+Request added for floor: 2
+Request ignored: Elevator already on floor 1
+Request added for floor: 5
+Request added for floor: 4
+Request added for floor: 3
+Request added for floor: 2
+Request added for floor: 5
+Request added for floor: 4
+Request added for floor: 3
+Request added for floor: 5
+Request added for floor: 4
+Request added for floor: 3
+Request added for floor: 2
+Request added for floor: 7
+Request added for floor: 4
+Request added for floor: 3
+State - Floor: 2, Direction: up
+State - Floor: 3, Direction: up
+Elevator stopped at floor: 3
+State - Floor: 4, Direction: up
+Elevator stopped at floor: 4
+Request added for floor: 5
+Request added for floor: 4
