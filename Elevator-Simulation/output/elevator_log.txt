@@ -1,0 +1,71 @@
+request added for floor: 2 from floor: 1
+request added for floor: 3 from floor: 1
+state - floor: 2, direction: up
+elevator stopped at floor: 2
+request added for floor: 8 from floor: 1
+Earthquake detected! Elevator operation stopped temporarily.
+request added for floor: 5 from floor: 1
+Earthquake detected! Elevator operation stopped temporarily.
+Earthquake detected! Elevator operation stopped temporarily.
+request added for floor: 6 from floor: 1
+state - floor: 2, direction: up
+state - floor: 3, direction: up
+state - floor: 4, direction: up
+state - floor: 5, direction: up
+state - floor: 6, direction: up
+elevator stopped at floor: 6
+elevator stopped at floor: 6
+request added for floor: 4 from floor: 6
+state - floor: 5, direction: down
+state - floor: 4, direction: down
+elevator stopped at floor: 4
+request added for floor: 6 from floor: 1
+Earthquake detected! Elevator operation stopped temporarily.
+duplicate floor request: 6
+Earthquake detected! Elevator operation stopped temporarily.
+request added for floor: 6 from floor: 1
+Earthquake detected! Elevator operation stopped temporarily.
+request added for floor: 6 from floor: 1
+Earthquake detected! Elevator operation stopped temporarily.
+request added for floor: 6 from floor: 1
+state - floor: 2, direction: up
+state - floor: 3, direction: up
+state - floor: 4, direction: up
+state - floor: 5, direction: up
+state - floor: 6, direction: up
+elevator stopped at floor: 6
+request added for floor: 8 from floor: 6
+elevator stopped at floor: 6
+state - floor: 7, direction: up
+state - floor: 8, direction: up
+elevator stopped at floor: 8
+elevator stopped at floor: 8
+request added for floor: 9 from floor: 8
+state - floor: 9, direction: up
+elevator stopped at floor: 9
+request added for floor: 7 from floor: 9
+elevator stopped at floor: 9
+state - floor: 8, direction: down
+state - floor: 7, direction: down
+elevator stopped at floor: 7
+request added for floor: 6 from floor: 7
+elevator stopped at floor: 7
+state - floor: 6, direction: down
+elevator stopped at floor: 6
+elevator stopped at floor: 6
+request added for floor: 5 from floor: 6
+state - floor: 5, direction: down
+elevator stopped at floor: 5
+request added for floor: 3 from floor: 1
+state - floor: 2, direction: up
+state - floor: 3, direction: up
+elevator stopped at floor: 3
+elevator stopped at floor: 3
+request added for floor: 8 from floor: 3
+Earthquake detected! Elevator operation stopped temporarily.
+request added for floor: 5 from floor: 1
+Earthquake detected! Elevator operation stopped temporarily.
+request added for floor: 6 from floor: 1
+Earthquake detected! Elevator operation stopped temporarily.
+request added for floor: 6 from floor: 1
+Earthquake detected! Elevator operation stopped temporarily.
