@@ -161,6 +161,7 @@ int main(){
     int score, choice;
 
     do{
+        while(true){
         cout << "\n\n================================\n";
         cout << "              MENU              \n";
         cout << "================================\n";
@@ -171,7 +172,10 @@ int main(){
         cout << "[5] Exit\n\n";
         cout << "Enter your choice: ";
         cin >> choice;
-
+        	if(choice<1||choice>5){
+        		cout<<"Invalid choice"<<endl;
+			}else{break;}
+		}
         cin.ignore();
 
         switch (choice) {
