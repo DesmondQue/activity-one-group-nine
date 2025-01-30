@@ -1,3 +1,4 @@
+
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -55,6 +56,7 @@ private:
             }
         }
     }
+
 
 public:
     Leaderboard(){
@@ -161,7 +163,6 @@ int main(){
     int score, choice;
 
     do{
-        while(true){
         cout << "\n\n================================\n";
         cout << "              MENU              \n";
         cout << "================================\n";
@@ -171,28 +172,38 @@ int main(){
         cout << "[4] Save Leaderboard to File\n";
         cout << "[5] Exit\n\n";
         cout << "Enter your choice: ";
-        cin >> choice;
-        	if(choice<1||choice>5){
-        		cout<<"Invalid choice"<<endl;
-			}else{break;}
-		}
-        cin.ignore();
+        
+		while(!(cin>>choice)){
+        	cin.clear();
+            cin.ignore(123,'\n');
+            cout << "Invalid input! Numbers only!"<< endl<< "\n\nEnter your choice: ";
+        }
 
         switch (choice) {
         case 1:
             cout << "\nEnter player name: ";
             getline(cin, name);
             cout << "Enter player score: ";
-            cin >> score;
-            cin.ignore();
+
+            while(!(cin>>score)){ 
+                cin.clear();
+                cin.ignore(123,'\n');
+                cout << "Invalid input! Numbers only!" << endl << "\n\nEnter player score: ";
+            }
+
             leaderboard.addPlayer(name, score);
             break;
         case 2: 
             cout << "\nEnter player name: ";
             getline(cin, name);
-            cout << "Enter player score: ";
-            cin >> score;
-            cin.ignore();
+	    cout << "Enter player score: ";
+
+            while(!(cin>>score)){ 
+                cin.clear();
+                cin.ignore(123,'\n');
+                cout << "Invalid input! Numbers only!" << endl << "\n\nEnter player score: ";
+            }
+
             leaderboard.updatePlayer(name, score);
             break;
         case 3:
